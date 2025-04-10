@@ -7,9 +7,8 @@ This project queries the **arXiv API** for research articles and automatically s
 - Sends results via email using an automated cloud-based service.
 - Runs on **PythonAnywhere** ([pythonanywhere.com](https://www.pythonanywhere.com/)).
 
-![Email image from cognitive architecture search query](images/git_image1.jpg)
-![Email image from cognitive modeling search query](images/git_image2.jpg)
-
+<img src="images/git_image1.jpg" alt="Alternate Text" width="400" />
+<img src="images/git_image2.jpg" alt="Alternate Text" width="400" />
 
 ### Example Use Case
 "Every month, I want to query arXiv and return 1-10 articles related to **cognitive architectures** and **cognitive modeling/computational cognitive modeling."
