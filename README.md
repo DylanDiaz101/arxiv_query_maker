@@ -34,8 +34,8 @@ url_modeling = (
 ```
 
 ### Additional Resources
-For more details on structuring search queries, refer to the [arXiv API Documentation](https://info.arxiv.org/help/api/basics.html).
-[arXiv Home Webpage](https://arxiv.org/)
+- For more details on structuring search queries, refer to the [arXiv API Documentation](https://info.arxiv.org/help/api/basics.html).
+- arXiv: [arXiv Home Webpage](https://arxiv.org/)
 
 
 
